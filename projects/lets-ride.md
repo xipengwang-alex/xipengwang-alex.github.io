@@ -11,7 +11,7 @@ labels:
   - Flask
   - PostgreSQL
   - Python
-summary: "A website for NFL match predictions and team statistics."
+summary: "A web application for NFL match predictions and team statistics."
 ---
 
 <div style="display: flex; justify-content: center;">
