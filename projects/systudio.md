@@ -8,7 +8,7 @@ published: true
 labels:
   - Python
   - Autodesk Maya
-  - MEL
+  - MEL (Maya Embedded Language)
   - OpenCV
   - PyTorch
 summary: "A synthetic data generation toolkit for general object detection applications."
