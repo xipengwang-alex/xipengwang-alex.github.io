@@ -14,8 +14,11 @@ labels:
 summary: "A synthetic data generation toolkit for general object detection applications."
 ---
 
-<img class="img-fluid" src="../img/systudio/icon1.png">
+<br>
 
+<img class="img-fluid mx-auto d-block" src="../img/systudio/icon1.png">
+
+<br>
 The data collection processes can be costly and time-consuming when training any machine learning model. Our versatile and easy-to-use synthetic data generation pipeline tackles this issue by allowing users to generate photorealistic image data with pixel-perfect annotation. The user inputs the 3D model of the object and randomization parameters into the toolkit, and it generates any amount of synthetic data needed. 
 
 As the primary author, I coordinated and overseed all aspects of the project.
