@@ -31,6 +31,13 @@ Our synthetic data generation pipeline for SyStudio consists of a six-stage proc
  - Custom Training of YOLOv5 Object Detection Model
  - Evaluation and Iterative Improvement
 
+<br>
+
+<img class="img-fluid mx-auto d-block" src="../img/systudio/workflow.png">
+
+<br>
+
+
 The work was presented as a research talk during the 2023 Purdue <a href="https://www.purdue.edu/undergrad-research/conferences/spring/archive/documents/AbstractBooklet_Spring2023.pdf#page=442">Spring Undergraduate Research Conference</a>.
 
 Citation:
