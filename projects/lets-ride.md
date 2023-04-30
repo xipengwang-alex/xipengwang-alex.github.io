@@ -15,7 +15,7 @@ summary: "A web application for NFL match predictions and team statistics."
 ---
 
 <div style="display: flex; justify-content: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/3SC3iTlf73E" frameborder="0" allowfullscreen></iframe>
+  <iframe width="75%" height="720" src="https://www.youtube.com/embed/3SC3iTlf73E" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
