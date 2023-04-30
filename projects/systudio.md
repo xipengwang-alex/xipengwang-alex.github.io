@@ -23,7 +23,7 @@ The data collection processes can be costly and time-consuming when training any
 
 As the primary author, I coordinated and overseed all aspects of the project.
 
-Our synthetic data generation pipeline consists of a six-stage process that transforms 3D models into deployable computer vision models:
+Our synthetic data generation pipeline for SyStudio consists of a six-stage process that transforms 3D models into deployable computer vision models:
  - Model Initialization
  - Parameter Randomization
  - Rendering the Image and Annotation Extraction
@@ -34,7 +34,7 @@ Our synthetic data generation pipeline consists of a six-stage process that tran
 The work is presented as a research talk during the 2023 Purdue <a href="https://www.purdue.edu/undergrad-research/conferences/spring/archive/documents/AbstractBooklet_Spring2023.pdf#page=442">Spring Undergraduate Research Conference</a>.
 
 Citation:
-Wang, X., Xu, M., Yu, G. (2023, April 13). Synthetic Data Generation for RoboMaster Amor Plate Detection [Oral
+Wang, X., Xu, M., Yu, G. (2023, April 13). Synthetic Data Generation for RoboMaster Armor Plate Detection [Oral
 Presentation]. 2023 Purdue Spring Undergraduate Research Conference, West Lafayette, IN, United States.
 
 
