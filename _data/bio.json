@@ -1,35 +1,34 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Xipeng Wang",
+    "label": "Undergraduate Student",
+    "picture": "https://github.com/xipengwang-alex.png",
+    "email": "wang4706@purdue.edu",
+    "phone": "949-485-9150",
+    "website": "https://xipengwang-alex.github.io",
+    "summary": "Hi! I'm a Junior Undergraduate student dual majoring Computer Science (with a concentration in Machine Intelligence) and Game Development at Purdue University.",
+    "location": { "address": "", "postalCode": "47906", "city": "West Lafayette", "countryCode": "USA", "region": "Indiana" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "xipengwang-alex", "url": "http://github.com/xipengwang-alex" },
+      { "network": "linkedin", "username": "xipeng-wang-6407b3232", "url": "http://linkedin.com/in/xipeng-wang-6407b3232" },
+      { "network": "instagram", "username": "wangxipeng_alex", "url": "https://www.instagram.com/wangxipeng_alex/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Machine Learning" },
+    { "name": "Computer Vision" },
+    { "name": "Software Development" },
+    { "name": "Game Development" },
+    { "name": "Robotics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Python", "R", "SQL", "OpenCV", "Scikit-learn", "PyTorch", "TensorFlow" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Unix/Bash", "Git" ]
     }
   ],
   "education": [
