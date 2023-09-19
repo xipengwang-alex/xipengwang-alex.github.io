@@ -6,11 +6,11 @@
     "email": "wang4706@purdue.edu",
     "phone": "949-485-9150",
     "website": "https://xipengwang-alex.github.io",
-    "summary": "Hi! I'm a Junior Undergraduate student dual majoring Computer Science (with a concentration in Machine Intelligence) and Game Development at Purdue University.",
+    "summary": "Hi! I'm a Senior Undergraduate Researcher at Purdue University dual majoring Computer Science (with a concentration in Machine Intelligence) and Game Development.",
     "location": { "address": "", "postalCode": "47906", "city": "West Lafayette", "countryCode": "USA", "region": "Indiana" },
     "profiles": [
       { "network": "github", "username": "xipengwang-alex", "url": "http://github.com/xipengwang-alex" },
-      { "network": "linkedin", "username": "xipeng-wang-6407b3232", "url": "http://linkedin.com/in/xipeng-wang-6407b3232" }
+      { "network": "linkedin", "username": "xipeng-wang-6407b3232", "url": "http://linkedin.com/in/xipengwang-alex/" }
     ]
   },
   "interests": [
