@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cognitive-state-modeling/icon.png
 title: "Cognitive State Modeling of Human Machine Interactions in a Level III Driving Simulator"
-date: 2023
+date: May, 2023
 published: true
 labels:
   - Unreal Engine 5
