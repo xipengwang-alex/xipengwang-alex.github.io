@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/lets-ride/logo512.png
 title: "Let's Ride"
-date: 2022
+date: Aug, 2022
 published: true
 labels:
   - React
