@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/pet-diagnostics/icon.png
 title: "Computer Vision-Aided Pet Detection and Diagnostics"
-date: 2023
+date: Aug, 2022
 published: true
 labels:
   - Python
