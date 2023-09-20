@@ -1,0 +1,27 @@
+---
+layout: project
+type: project
+image: img/cognitive-state-modeling/icon.png
+title: "Cognitive State Modeling of Human Machine Interactions in a Level III Driving Simulator"
+date: 2023
+published: true
+labels:
+  - Unreal Engine 5
+  - C++
+  - Python
+  - Data Processing
+  - Computer Vision
+summary: "Developing a high-fidelity Level III driving simulator to support various driving scenarios set in a dynamic city environment for human subject experiments."
+---
+
+<br>
+
+<img class="img-fluid mx-auto d-block" src="../img/cognitive-state-modeling/icon2.png">
+
+<br>
+
+• Engineered a modular framework for fast building of experimental trials, granting researchers full creative control
+• Implemented numerous data collection strategies such as devising segmentation data for gaze mapping and fixation identification, laying the groundwork for a comprehensive modeling of human cognition
+
+Citation: 
+Wang, X., Jeevanandam, S.,Williamson, M., & Jain, N. (2023, July 27). Cognitive State Modeling of Human Machine Interactions in a Level II Driving Simulator [Oral Presentation]. 2023 Summer Undergraduate Research Symposium,West Lafayette, IN, United States.
