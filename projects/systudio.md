@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/systudio/icon.png
 title: "SyStudio"
-date: 2023
+date: Aug, 2022
 published: true
 labels:
   - Python
