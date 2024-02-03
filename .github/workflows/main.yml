@@ -6,12 +6,20 @@ on:
       - main
 
 jobs:
-
   build_and_deploy:
     runs-on: ubuntu-latest
     steps:
       - name: GitHub Checkout
         uses: actions/checkout@v3
+      
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0' # install ruby version
+      
+      - name: Install specific version of Bundler
+        run: gem install bundler -v 2.4.22 # check bundler version
+      
       - name: Bundler Cache
         uses: actions/cache@v3
         with:
@@ -19,10 +27,12 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
+      
       - name: validate-bio-json-file
         uses: limitusus/json-syntax-check@v2
         with:
           pattern: "\\bio.json$"
+      
       - name: Build & Deploy to GitHub Pages
         uses: joshlarsen/jekyll4-deploy-gh-pages@master
         env:
